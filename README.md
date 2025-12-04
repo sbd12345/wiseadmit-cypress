@@ -108,6 +108,6 @@ wiseadmit-cypress/
 
 # Submission Notes
 
-- Repository:
+- Repository: https://github.com/sbd12345/wiseadmit-cypress
 - Ensure credentials are never hardcoded in test scripts.
 - HTML test report is available in reports/report.html.
