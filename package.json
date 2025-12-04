@@ -1,0 +1,18 @@
+{
+  "name": "wiseadmit-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run --reporter mochawesome --reporter-options reportDir=reports,reportFilename=report,overwrite=true,html=true,json=true"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "cypress": "^15.7.1",
+    "mochawesome": "^7.1.4"
+  }
+}
